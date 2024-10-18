@@ -33,3 +33,11 @@ Selvom der er fremskridt inden for dyrevelfærd, fejler menneskeheden stadig mar
 Et andet eksempel er brugen af dyr i medicinsk og kosmetisk forskning. På trods af fremskridt inden for alternativer som cellekulturer og computerbaserede modeller, bruges millioner af dyr stadig i forsøg hvert år. Dette rejser etiske spørgsmål, især når man tager i betragtning, at mange af disse forsøg forårsager betydelig lidelse, og at resultaterne ikke altid er overførbare til mennesker.
 
 Disse eksempler understøttes af omfattende videnskabelig dokumentation, som tydeliggør, hvor meget dyr lider under menneskets udnyttelse, og rejser væsentlige spørgsmål om, hvordan vi som samfund kan retfærdiggøre denne behandling af andre følende væsener.
+
+## Konklusion
+
+Gennem denne analyse af dyrerettigheder bliver det tydeligt, at vores nuværende behandling af dyr i landbrug, forskning og underholdning er dybt problematisk. Vi har set, hvordan den industrielle landbrugssektor fortsætter med at udsætte dyr for forfærdelige forhold, og selv hvor vi forsøger at forbedre dyrevelfærden, undgår vi det grundlæggende spørgsmål: Hvorfor udnytter vi dem overhovedet? Videnskaben viser klart, at dyr er følende væsener med ret til kropslig autonomi, men vi nægter dem denne ret i vores jagt på økonomisk gevinst og bekvemmelighed. 
+
+Når vi overvejer antispeciesismens argumenter og anvender Kants kategoriske imperativ, bliver det svært at retfærdiggøre vores udnyttelse af dyr. Hvis vi ikke ville tolerere denne behandling af mennesker, kan vi heller ikke retfærdiggøre den for dyr. For at leve op til vores moralske ansvar og respektere dyrs rettigheder er den logiske konklusion at afvise udnyttelse af dyr. 
+
+Så derfor bør du blive veganer for dyrene.

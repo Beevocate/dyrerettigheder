@@ -33,3 +33,11 @@ Despite progress in animal welfare, humanity continues to fall short when it com
 Another example is the use of animals in medical and cosmetic research. Despite advancements in alternatives such as cell cultures and computer-based models, millions of animals are still used in experiments each year. This raises ethical questions, especially given that many of these experiments cause significant suffering, and the results are not always translatable to humans.
 
 These examples are supported by extensive scientific documentation that highlights how much animals suffer under human exploitation, raising significant questions about how we, as a society, can justify this treatment of other sentient beings.
+
+## Conclusion
+
+Through this analysis of animal rights, it becomes clear that our current treatment of animals in agriculture, research, and entertainment is deeply problematic. We have seen how the industrial farming sector continues to expose animals to horrific conditions, and even when we try to improve animal welfare, we avoid the fundamental question: Why exploit them at all? Science clearly shows that animals are sentient beings with the right to bodily autonomy, yet we deny them this right in pursuit of profit and convenience.
+
+When we consider the arguments of antispeciesism and apply Kant's categorical imperative, it becomes difficult to justify our exploitation of animals. If we wouldn't tolerate this treatment of humans, we cannot justify it for animals either. To live up to our moral responsibility and respect animal rights, the logical conclusion is to reject the exploitation of animals.
+
+So therefore, you should go vegan for the animals.
