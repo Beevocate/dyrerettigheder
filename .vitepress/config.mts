@@ -19,13 +19,13 @@ export default defineConfig({
     root: {
       label: "Dansk",
       lang: 'da-DK',
-      title: 'Har Planter Følelser?',
+      title: 'Dyrerettigheder',
       description: ''
     },
     en: {
       label: "English",
       lang: 'en-US',
-      title: 'Do Plants Have Feelings?',
+      title: 'Animal Rights',
       description: ''
     }
   }
