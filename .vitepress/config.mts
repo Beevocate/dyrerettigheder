@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Dyrerettigheder",
-  description: "A VitePress Site",
+  description: "",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -20,13 +20,13 @@ export default defineConfig({
       label: "Dansk",
       lang: 'da-DK',
       title: 'Har Planter Følelser?',
-      description: 'En VitePress-side'
+      description: ''
     },
     en: {
       label: "English",
       lang: 'en-US',
       title: 'Do Plants Have Feelings?',
-      description: 'A VitePress Site'
+      description: ''
     }
   }
 })
