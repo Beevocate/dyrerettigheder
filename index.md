@@ -30,7 +30,7 @@ Forskning i dyrs kognitive og følelsesmæssige evner viser, at mange dyr kan op
 
 Selvom der er fremskridt inden for dyrevelfærd, fejler menneskeheden stadig markant, når det kommer til at anerkende dyrerettigheder. Et af de mest åbenlyse eksempler er den globale industri for animalsk landbrug, som har dokumenterede negative konsekvenser for både dyr og miljø. Ifølge FN's Fødevare- og Landbrugsorganisation opdrættes og slagtes over 70 milliarder landdyr årligt til fødevareproduktion, ofte under stærkt kritisable forhold. Studier viser, at disse dyr ofte lider under trange leveforhold, smertefulde procedurer og en for tidlig død.
 
-Et andet eksempel er brugen af dyr i medicinsk og kosmetisk forskning. På trods af fremskridt inden for alternativer som cellekulturer og computerbaserede modeller, bruges millioner af dyr stadig i forsøg hvert år. Dette rejser etiske spørgsmål, især når man tager i betragtning, at mange af disse forsøg forårsager betydelig lidelse, og at resultaterne ikke altid er overførbare til mennesker.
+Et andet eksempel er brugen af dyr i medicinsk og kosmetisk forskning. På trods af fremskridt inden for alternativer som cellekulturer og computerbaserede modeller, bruges millioner af dyr stadig i forsøg hvert år. Dette rejser etiske spørgsmål, især når man tager i betragtning, at mange af disse forsøg forårsager betydelig lidelse, og at resultaterne kun i ringe grad er overførbare.
 
 Disse eksempler understøttes af omfattende videnskabelig dokumentation, som tydeliggør, hvor meget dyr lider under menneskets udnyttelse, og rejser væsentlige spørgsmål om, hvordan vi som samfund kan retfærdiggøre denne behandling af andre følende væsener.
 

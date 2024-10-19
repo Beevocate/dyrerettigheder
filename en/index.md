@@ -30,7 +30,7 @@ Research into animals' cognitive and emotional capacities shows that many animal
 
 Despite progress in animal welfare, humanity continues to fall short when it comes to recognizing animal rights. One of the most glaring examples is the global animal agriculture industry, which has documented negative consequences for both animals and the environment. According to the UN’s Food and Agriculture Organization, over 70 billion land animals are raised and slaughtered annually for food production, often under highly criticized conditions. Studies have shown that these animals frequently suffer from cramped living spaces, painful procedures, and premature deaths.
 
-Another example is the use of animals in medical and cosmetic research. Despite advancements in alternatives such as cell cultures and computer-based models, millions of animals are still used in experiments each year. This raises ethical questions, especially given that many of these experiments cause significant suffering, and the results are not always translatable to humans.
+Another example is the use of animals in medical and cosmetic research. Despite advancements in alternatives such as cell cultures and computer-based models, millions of animals are still used in experiments each year. This raises ethical questions, especially given that many of these experiments cause significant suffering, and the results are not easily translateable.
 
 These examples are supported by extensive scientific documentation that highlights how much animals suffer under human exploitation, raising significant questions about how we, as a society, can justify this treatment of other sentient beings.
 
