@@ -42,7 +42,7 @@ Et andet eksempel er brugen af dyr i medicinsk og kosmetisk forskning. På trods
 
 Disse eksempler understøttes af omfattende videnskabelig dokumentation, som tydeliggør, hvor meget dyr lider under menneskets udnyttelse, og rejser væsentlige spørgsmål om, hvordan vi som samfund kan retfærdiggøre denne behandling af andre følende væsener.
 
-## Konklusion
+## Kort sagt
 
 Gennem denne analyse står det klart, at vores behandling af dyr i landbrug, forskning og underholdning er uetisk og udtryk for en trivialisering af ondskab. Industrilandbrug udsætter fortsat dyr for lidelse, og selv forbedret dyrevelfærd besvarer ikke spørgsmålet om, hvorfor vi overhovedet udnytter dem. Videnskaben viser, at dyr er følende væsener, men vi udnytter dem på samtlige måder for økonomisk gevinst.
 Antispeciesisme og Kants kategoriske imperativ gør det umuligt at retfærdiggøre vores udnyttelse af dyr. Den etisk rigtige handling er at afvise udnyttelse af dyr.

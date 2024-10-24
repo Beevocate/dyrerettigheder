@@ -42,7 +42,7 @@ Another example is the use of animals in medical and cosmetic research. Despite 
 
 These examples are supported by extensive scientific documentation showing how much animals suffer under human exploitation, raising serious questions about how we can justify this treatment of other sentient beings.
 
-## Conclusion
+## In short
 
 Through this analysis, it becomes clear that our treatment of animals in agriculture, research, and entertainment is unethical and represents a trivialization of cruelty. Industrial farming continues to expose animals to suffering, and even improved animal welfare does not address the fundamental question of why we exploit them at all. Science shows that animals are sentient beings, but we exploit them in every way possible for financial gain.
 
